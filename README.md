@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kirill Maksimovich
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me warznether2@yandex.ru
 - 😄 Pronouns: He
