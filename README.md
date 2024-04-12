@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kirill Maksimovich
-- 📫 How to reach me warznether2@yandex.ru
-- 😄 Pronouns: He
+
 -Стек: CSS\SCSS, JS, React, Redux-toolkit, Thunk, Node.js + Express, Rest API, Jest, Git.
 
 <!---
