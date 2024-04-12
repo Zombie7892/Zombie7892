@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Kirill Maksimovich
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me warznether2@yandex.ru
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+Стек: CSS\SCSS, JS, React, Redux-toolkit, Thunk, Node.js + Express, Rest API, Jest, Git.
 
 <!---
 Zombie7892/Zombie7892 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
